@@ -8,10 +8,16 @@
   .card {
     width: 40%;
   }
+  .gallery-container {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 600px) {
   .card {
     width: 60%;
+  }
+  .gallery-container {
+    width: 100%;
   }
 }
