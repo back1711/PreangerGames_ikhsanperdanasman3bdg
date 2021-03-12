@@ -90,6 +90,8 @@ nav a:hover {
   text-align: center;
   background-position: 0 0px;
   /* background-attachment: fixed; */
+  margin: auto;
+  height: 300px;
 }
 
 .image-banner h1 {
